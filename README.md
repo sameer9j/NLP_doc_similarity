@@ -1,5 +1,5 @@
 # NLP: Document Similarity
 
-Purpose: To check the document similarity using different metrics
+Purpose: To check the document similarity using metrics such as Path similarity, WUP similarity
 
 Tools used: Jupyter Notebook
