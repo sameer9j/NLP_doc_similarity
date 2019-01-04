@@ -1,2 +1,5 @@
 # NLP_doc_similarity
-Code to check the document similarity
+
+Purpose: To check the document similarity using different metrics
+
+Tools used: Jupyter Notebook
